@@ -1,0 +1,10 @@
+{
+  "name": "Reasoning PYQ Picker",
+  "short_name": "PYQ Picker",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0e1c",
+  "theme_color": "#7c3aed",
+  "icons": []
+}
